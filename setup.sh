@@ -6,5 +6,5 @@ sudo nala install pulseaudio thunar network-manager neovim curl lightdm -y
 sudo systemctl enable lightdm
 sudo systemctl set-default graphical.target
 mkdir ~/.config
-cp .xinitrc ~/
+cp debian_test_setup/.xinitrc ~/
 cp -r debian_test_setup/dotconfigs/* ~/.config/
