@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=nm-connection-editor.desktop,xfce4-taskmanager.desktop,panel-preferences.desktop,xfce4-screenshooter.desktop,xfce4-clipman-settings.desktop,xfce4-clipman.desktop,xfce-keyboard-settings.desktop,xfce-settings-manager.desktop,xfce4-settings-editor.desktop,gparted.desktop
+recent=gparted.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,xfce-keyboard-settings.desktop,xfce-session-settings.desktop,firefox-esr.desktop,xfce-settings-manager.desktop,code.desktop,redshift-gtk.desktop,xfce4-taskmanager.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=false
 show-button-title=false
