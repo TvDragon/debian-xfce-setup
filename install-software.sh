@@ -55,7 +55,7 @@ sudo nala install ./zoom_amd64.deb -y
 # Install pip3
 sudo nala install python3-pip -y
 # Install pip libraries - flask, pygame, jedi
-sudo nala install python3-flask python3-pygame python3-jedi -y
+sudo nala install python3-flask python3-pygame python3-jedi python3-pylint-common -y
 # Install SDL2 Libraries
 sudo nala install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev -y
 # Install neofetch
