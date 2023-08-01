@@ -19,7 +19,7 @@ sudo nala install xfwm4 xinit xfce4-terminal xfce4-settings xfce4-session \
 	xfce4-taskmanager xfce4-notifyd xfce4-screenshooter ristretto xfce4-panel \
 	xfce4-panel-profiles xfce4-power-manager-plugins xfce4-pulseaudio-plugin \
 	xfce4-wavelan-plugin xfce4-whiskermenu-plugin xfce4-windowck-plugin -y
-sudo nala install pulseaudio thunar network-manager neovim curl -y
+sudo nala install pulseaudio thunar network-manager network-manager-gnome neovim curl -y
 # Neovim autoload directory
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
