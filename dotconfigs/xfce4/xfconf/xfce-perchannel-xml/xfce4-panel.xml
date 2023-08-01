@@ -20,6 +20,7 @@
         <value type="int" value="5"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
+        <value type="int" value="17"/>
         <value type="int" value="9"/>
         <value type="int" value="10"/>
         <value type="int" value="11"/>
@@ -67,6 +68,7 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
         <value type="string" value="redshift"/>
         <value type="string" value="chrome_status_icon_1"/>
       </property>
@@ -120,5 +122,6 @@
         <value type="string" value="16893828755.desktop"/>
       </property>
     </property>
+    <property name="plugin-17" type="string" value="wavelan"/>
   </property>
 </channel>
