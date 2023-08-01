@@ -45,6 +45,7 @@ cp debian-xfce-setup/.xinitrc ~/.
 cp debian-xfce-setup/.vimrc ~/.
 sudo cp -r debian-xfce-setup/terminal_themes/* /usr/share/xfce4/terminal/colorschemes/
 cp -r debian-xfce-setup/nvim_plugged/* ~/.local/share/nvim/plugged/
+yes | sudo cp -f debian-xfce-setup/network-interfaces /etc/network/interfaces
 sudo mkdir /boot/grub/themes
 sudo cp -r debian-xfce-setup/grub_themes/* /boot/grub/themes/
 sudo cp debian-xfce-setup/grub /etc/default/grub
